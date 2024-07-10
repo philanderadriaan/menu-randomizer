@@ -1,0 +1,64 @@
+Furong egg rice	7
+Mapo tofu rice	7
+Bitter gourd chicken rice	8
+Sweet and sour chicken rice	8
+Ginger onion chicken rice	8
+Lemon chicken rice	8
+Kamheong chicken rice	8
+Black pepper chicken rice	8
+Butter chicken rice	8
+Mongolia chicken rice	8
+Marmite chicken rice	8
+Salted egg chicken rice	8
+Western chicken rice	8
+Thai style chicken rice	8
+Sweet and sour fish rice	9
+Lemon fish rice	9
+Bitter gourd fish rice	9
+Western fish rice	9
+Thai style fish rice	9
+Salted egg fish rice	9
+Kamheong fish rice	9
+Marmite fish rice	9
+Black pepper fish rice	9
+Salted egg sotong rice	9
+
+Mix vegetable	8
+Cabbage	8
+Long beans	8
+Kangkong	8
+Kangkong belacan	8
+Broccoli	9
+Kailan ikan masin	9
+Mince meat eggplant	9
+
+Teh O Hot	1.5
+Teh O Cold	1.8
+Teh O Limau Hot	1.6
+Teh O Limau Cold	2
+Kopi O Hot	1.8
+Kopi O Cold	2
+Teh Hot	1.8
+Teh Cold	2
+Kopi Hot	1.8
+Kopi Cold	2
+Cham Hot	1.8
+Cham Cold	2
+Kopi C Hot	1.8
+Kopi C Cold	2
+Teh C Hot	1.8
+Teh C Cold	2
+Cham C Hot	1.8
+Cham C Cold	2
+Limau Hot	1.8
+Limau Cold	2
+Milo Hot	3
+Milo Cold	3.2
+Nescafe Hot	3
+Nescafe Cold	3.2
+White Coffee Hot	3
+White Coffee Cold	3.2
+Neslo Hot	3
+Neslo Cold	3.2
+Sirap Ice	2
+Sirap Bandung Ice	3
