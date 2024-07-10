@@ -33,6 +33,8 @@ public class MenuRandomizer {
 	private static void shuffle(List<Entry<String, Float>> menuList) {
 		Collections.shuffle(menuList);
 		System.out.println(menuList.get(0).getKey());
+		// System.out.println(menuList.get(0).getKey() + " " + String.format("%.2f",
+		// menuList.get(0).getValue()));
 		menuList.clear();
 	}
 }
